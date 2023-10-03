@@ -1,0 +1,5 @@
+print ("Hello, welcome to the DJ name generator")
+city = input("What city did you last visit?\n")
+pet = input("What is the name of your first pet?\n")
+djname = (city + " " + pet)
+print ("Your DJ name is "  + djname)
